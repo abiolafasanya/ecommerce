@@ -1,0 +1,19 @@
+
+.header {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-menus {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+}
+
+.header-menus a {
+    color: black;
+    font-size: 16px;
+    text-decoration: none;
+}
